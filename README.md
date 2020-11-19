@@ -1,4 +1,4 @@
-Clone da interface de ui em React feito em estudo por: https://www.youtube.com/watch?v=Mf4Se4ZGcG8&ab_channel=Rocketseat
+Clone da interface em React, feito em estudo por: https://www.youtube.com/watch?v=Mf4Se4ZGcG8&ab_channel=Rocketseat
 
 Executar projeto: yarn start
 
