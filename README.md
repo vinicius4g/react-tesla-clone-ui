@@ -1,3 +1,8 @@
+Clone da interface de ui em React feito em estudo por: https://www.youtube.com/watch?v=Mf4Se4ZGcG8&ab_channel=Rocketseat
+
+Executar projeto: yarn start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
